@@ -1,0 +1,8 @@
+1. Create a GitHub Account
+2. Create a Repository.
+3. Create a Repository with the same name in Local System.
+	git config --global user.name = "xyz@gmail.com" 
+	git confir --global user.email = "zyx"
+4. git push -u origin master
+	username -> orignal username
+	password -> generated token from GitHub
